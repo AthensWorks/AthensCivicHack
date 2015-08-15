@@ -1,5 +1,5 @@
 
-# Civic Hack
+# Civic Hack Night
 
 *Hack Night*
 
@@ -55,6 +55,7 @@ _176 Tastes_
 _Willoughby Brewing Co._
 
 _56 Favorites_
+
 
 # Success!
 ![Success](images/SuccessKid.jpg)
